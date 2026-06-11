@@ -6,12 +6,6 @@ A responsive cryptocurrency tracking application built with React.js that provid
 
 * View top cryptocurrencies with real-time market data
 * Search coins by name or symbol
-* Filter and sort coins by:
-
-  * Name
-  * Price
-  * Market Cap Rank
-  * 24-Hour Percentage Change
 * Detailed cryptocurrency information page
 * Interactive 7-day price history charts
 * Responsive design with list and grid layouts
