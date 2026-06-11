@@ -51,10 +51,10 @@ npm run dev
 
 ```text
 src/
+├── api/
 ├── components/
 ├── pages/
-├── services/
-├── assets/
+├── utils/
 ├── App.jsx
 └── main.jsx
 ```
