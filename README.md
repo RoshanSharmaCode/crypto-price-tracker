@@ -78,14 +78,6 @@ This project uses the CoinGecko API to fetch:
 * Data visualization techniques
 * Search, filtering, and sorting implementations
 
-## Future Improvements
-
-* Watchlist functionality
-* Dark/Light mode
-* Portfolio tracking
-* Price alerts
-* Additional chart time ranges
-
 ## License
 
 This project is open source and available under the MIT License.
