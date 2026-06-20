@@ -78,6 +78,3 @@ This project uses the CoinGecko API to fetch:
 * Data visualization techniques
 * Search, filtering, and sorting implementations
 
-## License
-
-This project is open source and available under the MIT License.
