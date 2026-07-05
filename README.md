@@ -19,7 +19,7 @@ A responsive cryptocurrency tracking application built with React.js that provid
 * CoinGecko API
 * JavaScript
 * HTML5
-* CSS3
+* CSS3 
 
 ## Installation
 
