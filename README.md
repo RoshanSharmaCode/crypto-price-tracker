@@ -1,16 +1,80 @@
-# React + Vite
+# Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive cryptocurrency tracking application built with React.js that provides real-time market data, detailed coin information, and interactive price charts. Users can browse, search, filter, and sort cryptocurrencies while viewing up-to-date financial metrics powered by the CoinGecko API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* View top cryptocurrencies with real-time market data
+* Search coins by name or symbol
+* Detailed cryptocurrency information page
+* Interactive 7-day price history charts
+* Responsive design with list and grid layouts
+* Seamless navigation using React Router
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* React Router
+* CoinGecko API
+* JavaScript
+* HTML5
+* CSS3 
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/crypto-price-tracker.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd crypto-price-tracker
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Project Structure
+
+```text
+src/
+├── api/
+├── components/
+├── pages/
+├── utils/
+├── App.jsx
+└── main.jsx
+```
+
+## API
+
+This project uses the CoinGecko API to fetch:
+
+* Cryptocurrency market data
+* Coin details
+* Market capitalization
+* Trading volume
+* Historical price data
+
+## Learning Outcomes
+
+* API integration and data fetching
+* State management in React
+* Dynamic routing with React Router
+* Responsive UI development
+* Data visualization techniques
+* Search, filtering, and sorting implementations
+
