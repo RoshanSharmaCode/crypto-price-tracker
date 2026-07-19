@@ -2,6 +2,8 @@
 
 A responsive cryptocurrency tracking application built with React.js that provides real-time market data, detailed coin information, and interactive price charts. Users can browse, search, filter, and sort cryptocurrencies while viewing up-to-date financial metrics powered by the CoinGecko API.
 
+🚀 **Live Demo:** https://crypto-price-tracker-navy.vercel.app
+
 ## Features
 
 * View top cryptocurrencies with real-time market data
